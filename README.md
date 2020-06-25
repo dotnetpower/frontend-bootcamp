@@ -2,7 +2,7 @@
 
 > 🚨🚨 This project is a work in progress! Issues and pull requests are encouraged. 🚨🚨
 
-## Welcome
+## Welcome 웰컴.
 
 In this two-day workshop you'll learn the basics of frontend development while building a working web app.
 
